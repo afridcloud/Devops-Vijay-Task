@@ -1,0 +1,38 @@
+PS C:\Users\Mohamed Afrid\PycharmProjects\pythonProject\Devops-Vijay-Task> git log
+commit 2d495c5b05b2e3d1f57857dbc1f70afed4f3e50b (HEAD -> afridm-new_feature)
+Author: Afridm <afridcloud@gmail.com>
+Date:   Thu Sep 29 00:37:39 2022 +0530
+
+    Revert "Update README.md"
+
+    This reverts commit f7a9a2ae146dac34ab18b81564811a5fe607efc6.
+
+commit f7a9a2ae146dac34ab18b81564811a5fe607efc6 (origin/afridm-new_feature)
+Author: afridcloud <60093215+afridcloud@users.noreply.github.com>
+Date:   Thu Sep 29 00:33:31 2022 +0530
+
+    Update README.md
+
+commit 6e36ae446eaecdc1d1d2bd8836e52c765fb9dbd5
+Author: afridcloud <60093215+afridcloud@users.noreply.github.com>
+Date:   Thu Sep 29 00:26:18 2022 +0530
+
+    Create README.md
+
+commit 9f25603e4c01c38d678a9b84d6ebbdfeab1c711d
+Author: Afridm <afridcloud@gmail.com>
+Date:   Thu Sep 29 00:24:56 2022 +0530
+
+    created task1 folder and added README.md file
+
+commit f7f1ece0df13832167f054f5181b310833321b0f
+Author: Afridm <afridcloud@gmail.com>
+Date:   Thu Sep 29 00:24:18 2022 +0530
+
+    created task1 folder and added README.md file
+
+commit 30279be32ea44c3ac007e1cb052c303bf0463351
+Author: afridcloud <60093215+afridcloud@users.noreply.github.com>
+Date:   Thu Sep 29 00:14:42 2022 +0530
+
+    Create Test
